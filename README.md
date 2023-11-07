@@ -1,8 +1,11 @@
 # pasamu (Partai Persatuan Pemuda)
 
-<p>
-  Partai PASAMU (P.S.M)/(Partai Persatuan Pemuda) Partai Ini bertujuan untuk Mempersatukan pemuda pemudi indonesia yang telah pecah belah karna suatu hal 
-</p>
+<ul>
+  <h3>Tentang Pasamu</h3>
+  <p>
+    Partai PASAMU (P.S.M)/(Partai Persatuan Pemuda) Partai Ini bertujuan untuk Mempersatukan pemuda pemudi indonesia yang telah pecah belah karna suatu hal 
+  </p>
+</ul>
 
 <ul>
   <h3>Visi Misi</h3>
